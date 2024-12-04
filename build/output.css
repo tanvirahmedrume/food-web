@@ -738,16 +738,16 @@ video {
   width: 14rem;
 }
 
-.w-80{
-  width: 20rem;
-}
-
 .w-auto{
   width: auto;
 }
 
 .w-full{
   width: 100%;
+}
+
+.min-w-96{
+  min-width: 24rem;
 }
 
 .min-w-full{
@@ -794,6 +794,10 @@ video {
 
 .justify-between{
   justify-content: space-between;
+}
+
+.justify-items-center{
+  justify-items: center;
 }
 
 .gap-1{
